@@ -1,0 +1,25 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-xray-sdk": "^2.5.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-req": "^1.2.3",
+    "form-scraper": "0.0.4",
+    "promisified-request": "0.0.3",
+    "request": "^2.88.0",
+    "tinyreq": "^3.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1"
+  }
+}
